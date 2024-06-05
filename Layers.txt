@@ -1,0 +1,28 @@
+Access (Fundamentos del Lenguaje) 
+//Elementos Básicos: Variables y Constantes.
+//Sentencias: Asignación, Condicionales, Bucles.
+//Tipado: Anotaciones de Tipo.
+Physical: Elements (Elementos)
+Link: Statements (and blocks)
+
+Network (Estructuras de Datos y Control) s_
+Network: Structures (s_) (sL_) (sT_)
+//Estructuras de Control: Condicionales, Bucles.
+//Estructuras de Datos: Listas, Tuplas, Diccionarios, Conjuntos, Pilas, Colas, Árboles.
+
+Transport (Funciones)
+Transport: Functions (f_)
+//Funciones: Definición de Funciones, Funciones Anónimas (Lambdas), Generadores, Decoradores.
+//Organización de Código: Módulos, Paquetes.
+
+Application (Clases y Objetos)
+Session: Reference
+Presentation: Class
+Application: Inheritance and Polymorphism
+//Programación Orientada a Objetos (OOP): Clases, Objetos.
+//Gestión de Recursos: Context Managers.
+//Manejo de Errores: Excepciones.
+
+Others
+fileModify: TXT,JSON,HTML
+
